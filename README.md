@@ -7,7 +7,7 @@
 
 ## Installation
 ```shell
-git clone https://github.com/Galkurta/Netcoin-BOT.git
+git clone https://github.com/himiko3939/net.git
 ```
 ```shell
 cd Netcoin-BOT
